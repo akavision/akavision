@@ -1,5 +1,4 @@
-## 🚀 Contribution Space Shooter
-> My GitHub contributions 🎮
+> 👾 My contributions were too few so I turned them into enemies
 
 ![GitHub Space Shooter Game](game.gif)
 
