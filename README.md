@@ -1,5 +1,5 @@
 ## 🚀 Contribution Space Shooter
-> My GitHub contributions — now an arcade game. Shoot 'em up! 🎮
+> My GitHub contributions 🎮
 
 ![GitHub Space Shooter Game](game.gif)
 
